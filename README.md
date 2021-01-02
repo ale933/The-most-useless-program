@@ -1,2 +1,2 @@
-# The-most-useless-program
-The most useless program
+# The most useless program
+Don't expect much
